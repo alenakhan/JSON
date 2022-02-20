@@ -8,10 +8,10 @@
   "Status": "Open",
   "Author": "QA_Engineer_Name",
   "Assigned To": "Developer_Name",
-  "Environment": "Windows XP, Mozilla Firefox 3.3, oursite.com",
-  "Steps to Reproduce": "step_1, step_2, step_3",
+  "Environment": ["Windows XP", "Mozilla Firefox 3.3", "oursite.com"],
+  "Steps to Reproduce": ["step_1", "step_2", "step_3"],
   "Result": "Some_result",
   "Expected Result": "Exp_Result",
-  "Attachment": "1.png"
+  "Attachment": "test_1.png"
 
 }
